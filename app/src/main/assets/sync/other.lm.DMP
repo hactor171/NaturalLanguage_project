@@ -1,0 +1,133 @@
+Language model created by QuickLM on Fri Jan 17 18:23:31 EST 2020
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 27 sentences and 29 words
+
+\data\
+ngram 1=29
+ngram 2=54
+ngram 3=27
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-2.2095 APLIKACJĘ -0.2218
+-2.2095 BUDZIK -0.2218
+-2.2095 DO -0.2218
+-2.2095 DWUNASTĄ -0.2218
+-2.2095 DYKTOFON -0.2218
+-2.2095 KALENDARZ -0.2218
+-2.2095 KALKULATOR -0.2218
+-2.2095 KAMERĘ -0.2218
+-2.2095 MAPĘ -0.2218
+-2.2095 MUZYKĘ -0.2218
+-2.2095 NA -0.2218
+-2.2095 NAPISZ -0.2218
+-2.2095 OTWÓRZ -0.2218
+-2.2095 POKAŻ -0.2218
+-2.2095 PRZEGLĄDARKĘ -0.2218
+-2.2095 RADIO -0.2218
+-2.2095 START -0.2218
+-2.2095 STOP -0.2218
+-2.2095 TEKST -0.2218
+-2.2095 USTAW -0.2218
+-2.2095 WIADOMOŚĆ -0.2218
+-2.2095 WSZYSTKO -0.2218
+-2.2095 WYŚLIJ -0.2218
+-2.2095 WŁĄCZ -0.2218
+-2.2095 ZADZWOŃ -0.2218
+-2.2095 ZAMKNIJ -0.2218
+-2.2095 ZAPISZ -0.2218
+
+\2-grams:
+-1.7324 <s> APLIKACJĘ 0.0000
+-1.7324 <s> BUDZIK 0.0000
+-1.7324 <s> DO 0.0000
+-1.7324 <s> DWUNASTĄ 0.0000
+-1.7324 <s> DYKTOFON 0.0000
+-1.7324 <s> KALENDARZ 0.0000
+-1.7324 <s> KALKULATOR 0.0000
+-1.7324 <s> KAMERĘ 0.0000
+-1.7324 <s> MAPĘ 0.0000
+-1.7324 <s> MUZYKĘ 0.0000
+-1.7324 <s> NA 0.0000
+-1.7324 <s> NAPISZ 0.0000
+-1.7324 <s> OTWÓRZ 0.0000
+-1.7324 <s> POKAŻ 0.0000
+-1.7324 <s> PRZEGLĄDARKĘ 0.0000
+-1.7324 <s> RADIO 0.0000
+-1.7324 <s> START 0.0000
+-1.7324 <s> STOP 0.0000
+-1.7324 <s> TEKST 0.0000
+-1.7324 <s> USTAW 0.0000
+-1.7324 <s> WIADOMOŚĆ 0.0000
+-1.7324 <s> WSZYSTKO 0.0000
+-1.7324 <s> WYŚLIJ 0.0000
+-1.7324 <s> WŁĄCZ 0.0000
+-1.7324 <s> ZADZWOŃ 0.0000
+-1.7324 <s> ZAMKNIJ 0.0000
+-1.7324 <s> ZAPISZ 0.0000
+-0.3010 APLIKACJĘ </s> -0.3010
+-0.3010 BUDZIK </s> -0.3010
+-0.3010 DO </s> -0.3010
+-0.3010 DWUNASTĄ </s> -0.3010
+-0.3010 DYKTOFON </s> -0.3010
+-0.3010 KALENDARZ </s> -0.3010
+-0.3010 KALKULATOR </s> -0.3010
+-0.3010 KAMERĘ </s> -0.3010
+-0.3010 MAPĘ </s> -0.3010
+-0.3010 MUZYKĘ </s> -0.3010
+-0.3010 NA </s> -0.3010
+-0.3010 NAPISZ </s> -0.3010
+-0.3010 OTWÓRZ </s> -0.3010
+-0.3010 POKAŻ </s> -0.3010
+-0.3010 PRZEGLĄDARKĘ </s> -0.3010
+-0.3010 RADIO </s> -0.3010
+-0.3010 START </s> -0.3010
+-0.3010 STOP </s> -0.3010
+-0.3010 TEKST </s> -0.3010
+-0.3010 USTAW </s> -0.3010
+-0.3010 WIADOMOŚĆ </s> -0.3010
+-0.3010 WSZYSTKO </s> -0.3010
+-0.3010 WYŚLIJ </s> -0.3010
+-0.3010 WŁĄCZ </s> -0.3010
+-0.3010 ZADZWOŃ </s> -0.3010
+-0.3010 ZAMKNIJ </s> -0.3010
+-0.3010 ZAPISZ </s> -0.3010
+
+\3-grams:
+-0.3010 <s> APLIKACJĘ </s>
+-0.3010 <s> BUDZIK </s>
+-0.3010 <s> DO </s>
+-0.3010 <s> DWUNASTĄ </s>
+-0.3010 <s> DYKTOFON </s>
+-0.3010 <s> KALENDARZ </s>
+-0.3010 <s> KALKULATOR </s>
+-0.3010 <s> KAMERĘ </s>
+-0.3010 <s> MAPĘ </s>
+-0.3010 <s> MUZYKĘ </s>
+-0.3010 <s> NA </s>
+-0.3010 <s> NAPISZ </s>
+-0.3010 <s> OTWÓRZ </s>
+-0.3010 <s> POKAŻ </s>
+-0.3010 <s> PRZEGLĄDARKĘ </s>
+-0.3010 <s> RADIO </s>
+-0.3010 <s> START </s>
+-0.3010 <s> STOP </s>
+-0.3010 <s> TEKST </s>
+-0.3010 <s> USTAW </s>
+-0.3010 <s> WIADOMOŚĆ </s>
+-0.3010 <s> WSZYSTKO </s>
+-0.3010 <s> WYŚLIJ </s>
+-0.3010 <s> WŁĄCZ </s>
+-0.3010 <s> ZADZWOŃ </s>
+-0.3010 <s> ZAMKNIJ </s>
+-0.3010 <s> ZAPISZ </s>
+
+\end\

@@ -1,0 +1,21 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = USTAW BUDZIK NA DWUNASTĄ |
+                NAPISZ WIADOMOŚĆ |
+                NAPISZ TEKST |
+                ZAPISZ TEKST |
+                WYŚLIJ WIADOMOŚĆ |
+                OTWÓRZ DYKTOFON |
+                OTWÓRZ KALENDARZ |
+                OTWÓRZ KALKULATOR |
+                OTWÓRZ MAPĘ |
+                OTWÓRZ KAMERĘ |
+                WŁĄCZ MUZYKĘ |
+                WŁĄCZ RADIO |
+                OTWÓRZ PRZEGLĄDARKĘ |
+                POKAŻ WIADOMOŚĆ |
+                ZADZWOŃ DO |
+                ZAMKNIJ WSZYSTKO;
+
